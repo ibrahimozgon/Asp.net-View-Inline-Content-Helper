@@ -1,6 +1,6 @@
 # InlineContentHelper
 Adds inline content files to html output
-#Usage
+# Usage
 @using InlineContentHelper.Helpers
 <html>
 <head>
@@ -9,8 +9,8 @@ Adds inline content files to html output
 </head>
 </html>
 
-#Mobile View Support
+# Mobile View Support
 adds .mobile extension for mobile page rendering.
 
-#Caching
+# Caching
 Caches all files.
