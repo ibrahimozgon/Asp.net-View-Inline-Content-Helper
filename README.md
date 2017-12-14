@@ -9,6 +9,16 @@ Adds inline content files to html output
 </head>
 </html>
 
+# Path
+You need to add your files under Contents folder
+Contents
+ => script
+	=>critical-script.js
+	=>critical-script.mobile.js
+ => style
+	=>critical-style.js
+	=>critical-style.mobile.js
+
 # Mobile View Support
 adds .mobile extension for mobile page rendering.
 
