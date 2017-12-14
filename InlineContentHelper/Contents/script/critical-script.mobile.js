@@ -1,0 +1,1 @@
+alert('mobile script loaded')
